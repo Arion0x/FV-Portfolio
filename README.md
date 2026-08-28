@@ -1,6 +1,6 @@
 # FV-Portfolio
 
-### 🛡️ My Certora Formal Verification Portfolio
+### 🛡️ Certora Formal Verification Contests
 
 | Date | Protocol FV suite | Rewards | Mutations Caught | Result |
 | :--- | :--- | :--- | :--- | :--- |
@@ -9,3 +9,15 @@
 | June 2024 | [Euler v2](https://github.com/Arion0x/euler-cantina-fv) | $2,194.47 | 10/27 | [#8](https://docs.google.com/spreadsheets/d/134AlmLXV2gbSRmsgCdK0IRU2qQtL6XhJL4uiOLayn5A/edit?gid=1970712821#gid=1970712821) |
 | March 2024 | [Tokemak](https://github.com/Arion0x/tokemak-fv) | $1,418.92 | 4/9 | [#6](https://docs.google.com/spreadsheets/d/10qRTmvjmNyVbIyy3lG-OTMKL5KUK_RGV5MOaOjSs4jQ/edit?gid=1970712821#gid=1970712821) |
 | Nov 2023 | [Badger eBTC](https://github.com/Arion0x/ebtc-contest) | $300.85 | 29/36 | [#20](https://docs.google.com/spreadsheets/d/1-O1hELSE3wi0WzvQI2w--0GlilCJTFGpVTRXIQsyFAk/edit?gid=1970712821#gid=1970712821) |
+
+
+
+
+### 🔒 Private Formal Verification Engagements
+
+
+
+| Date     | Project                                                    | Provider       | Report                                                     |
+| :------- | :--------------------------------------------------------- | :------------- | :--------------------------------------------------------- |
+| Jun 2026 | [0x-Settler](https://0x.org/)                              | Bailsec | Private                                  |
+| May 2026 | [Armada Crowdfund Governance](https://armada.wtf/)         | Cyfrin         | [report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-05-13-cyfrin-armada-crowdfund-governance-fv-v2.0.pdf) |
